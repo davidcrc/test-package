@@ -1,0 +1,1 @@
+This is an example to use an dummy npm package
